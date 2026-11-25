@@ -2,3 +2,4 @@ Server Inventory
 Server 1: Web Server
 Server 2: Database Server
 Server 3: Monitoring Server
+Server 4: Application Server

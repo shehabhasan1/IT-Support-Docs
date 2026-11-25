@@ -1,3 +1,4 @@
 Backup Configuration
 Backup Frequency: Daily
 Backup Time: 22:00
+Backup Retention: 7 Days
